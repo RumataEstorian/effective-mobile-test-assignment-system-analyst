@@ -16,7 +16,7 @@ Response body:
 Пример ответа - в файле [response_example.json](./response_example.json).
 
 # Ошибки
--400 Bad Request
--401 Unauthorized
--403 Forbidden
--500 Internal Server Error
+- 400 Bad Request
+- 401 Unauthorized
+- 403 Forbidden
+- 500 Internal Server Error
