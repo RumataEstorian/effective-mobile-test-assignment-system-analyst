@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "store_name": "METRO",
+        "store_logo_url": "https://cdn.petrushka.ru/logos/metro.png",
+        "delivery_type": "slot",
+        "delivery_title": "Ближайшая доставка",
+        "delivery_slot": {
+            "day": "2026-05-19",
+            "from": "21:00",
+            "to": "23:00"
+        },
+        "delivery_eta": null,
+        "external_url": "https://online.metro-cc.ru/"
+    },
+    {
+        "id": 2,
+        "store_name": "АШАН",
+        "store_logo_url": "https://cdn.petrushka.ru/logos/auchan.png",
+        "delivery_type": "slot",
+        "delivery_title": "Ближайшая доставка",
+        "delivery_slot": {
+            "day": "2026-05-19",
+            "from": "18:00",
+            "to": "20:00"
+        },
+        "delivery_eta": null,
+        "external_url": "https://www.auchan.ru/"
+    },
+    {
+        "id": 3,
+        "store_name": "ВкусВилл",
+        "store_logo_url": "https://cdn.petrushka.ru/logos/vkusvill.png",
+        "delivery_type": "eta",
+        "delivery_title": "Быстрая доставка",
+        "delivery_slot": null,
+        "delivery_eta": {
+            "min_minutes": 20,
+            "max_minutes": 60
+        },
+        "external_url": "https://vkusvill.ru/"
+    },
+    {
+        "id": 4,
+        "store_name": "ВИКТОРИЯ",
+        "store_logo_url": "https://cdn.petrushka.ru/logos/viktoria.png",
+        "delivery_type": "slot",
+        "delivery_title": "Ближайшая доставка",
+        "delivery_slot": {
+            "day": "2026-05-19",
+            "from": "17:00",
+            "to": "19:00"
+        },
+        "delivery_eta": null,
+        "external_url": "https://viktoria.ru/"
+    }
+]
