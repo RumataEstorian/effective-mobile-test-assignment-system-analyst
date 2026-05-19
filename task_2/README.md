@@ -1,4 +1,4 @@
-Запрос на выбор магазинов из списка партнёров
+# Запрос на выбор магазинов из списка партнёров
 
 ```http
 GET /api/v1/partner-stores HTTP/1.1
@@ -15,8 +15,8 @@ Response body:
 
 Пример ответа - в файле [response_example.json](./response_example.json).
 
-Ошибки
-400 Bad Request
-401 Unauthorized
-403 Forbidden
-500 Internal Server Error
+# Ошибки
+-400 Bad Request
+-401 Unauthorized
+-403 Forbidden
+-500 Internal Server Error
