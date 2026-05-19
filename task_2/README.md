@@ -13,7 +13,7 @@ Authorization: Bearer <user_access_token>
 Response body:
 200 OK
 
-Пример ответа — в файле [response_example.json](./response_example.json).
+Пример ответа - в файле [response_example.json](./response_example.json).
 
 Ошибки
 400 Bad Request
